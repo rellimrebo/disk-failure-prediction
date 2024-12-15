@@ -12,5 +12,5 @@ data
 
 models
 - lstm_5day.py: LSTM model with 5-day sliding window
-- random_forest.py: 
+- random_forest.py: Random Forest
 - naive_bayes.py: Naive Bayes Classifier
