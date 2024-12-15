@@ -5,6 +5,6 @@ Data is available [here](https://www.backblaze.com/cloud-storage/resources/hard-
 Data preprocessing steps described in paper. The files are too large to upload to this repository
 
 models
-- lstm_5day.py: LSTM model with 5-day sliding window
-- random_forest.py: Random Forest
-- naive_bayes.py: Naive Bayes Classifier
+- lstm_5day.py
+- random_forest.py
+- naive_bayes.py
