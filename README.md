@@ -1,4 +1,4 @@
-Predicting Disk Failure - ECE 225A Project
+Predicting Disk Failure
 
 Data is available [here](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data#downloadingTheRawTestData). The experiments used 2021 Q1 through 2024 Q3 (the latest available at the time of writing)
 
